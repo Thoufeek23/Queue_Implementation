@@ -5,7 +5,7 @@ CXX = g++
 CXXFLAGS = -Wall -g
 
 # Target executable
-TARGET = queue
+TARGET = queue_program
 
 # Object files
 OBJ = main.o queue.o
